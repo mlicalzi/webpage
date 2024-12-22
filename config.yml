@@ -1,0 +1,109 @@
+baseURL: "https://marcolicalzi.github.io" 
+title: Marco LiCalzi
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Research
+          url: papers/
+          weight: 2
+            - name: Teaching
+          url: courses/
+          weight: 3
+        - name: Publications
+          url: data/
+          weight: 4 
+     - name: Repository
+          url: books/
+          weight: 5 
+  
+params:
+    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    author: Marco LiCalzi
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "December 2024"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["books","courses","papers","data"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Marco LiCalzi
+          subtitle: "I am a Professor in the Venice School of Management at Università Ca' Foscari Venezia, Italy."
+          imageUrl: "picture.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: Research
+              url: papers/
+            - name: Teaching
+              url: courses/
+            - name: Data
+              url: data/
+            - name: Publications
+              url: books/
+            - name: Repository
+              url: archive/
+            - name: Tags
+              url: tags/
+    
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:licalzi@unive.it
+        - name: Zoom
+          url: https://unive.zoom.us/j/2916231240?pwd=bXNoMU5XaENLL2hHaXE0U1RmMzZuQT09
+        - name: Location
+          url: location/
+        - name: Office Hours
+          url: officehours/
+          - name: ORCID
+          url: https://orcid.org/my-orcid?orcid=0000-0003-4718-708X
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=BRTQX8gAAAAJ
+        - name: GitHub
+          url: https://github.com/marcolicalzi
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Marco LiCalzi"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
