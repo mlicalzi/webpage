@@ -1,35 +1,36 @@
-baseURL: "https://marcolicalzi.github.io" 
+baseURL: "https://mlicalzi.github.io/" 
 title: Marco LiCalzi
+pagination:
+    pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-
-taxonomies:
-    tag: tags
+enableEmoji: true
 
 menu:
     main:
         - name: Research
-          url: papers/
+          url: research
+          weight: 1
+        - name: Teaching
+          url: teaching
           weight: 2
-            - name: Teaching
-          url: courses/
+        - name: Service
+          url: service
           weight: 3
-        - name: Publications
-          url: data/
-          weight: 4 
-     - name: Repository
-          url: books/
-          weight: 5 
-  
+        - name: Repository
+          url: repository
+          weight: 4
+
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: "This website hosts information about Marco LiCalzi's research, teaching, publications, curriculum vitae, and contact information."
     author: Marco LiCalzi
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "December 2024"
+    # googleAnalyticsID: "G-XXXXX1"
+   # images: ["cover.png"]
+    DateFormat: "January 2025"
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -39,7 +40,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["Research","Teaching","Service","Repository"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -50,60 +51,58 @@ params:
     profileMode:
           enabled: true
           title: Marco LiCalzi
-          subtitle: "I am a Professor in the Venice School of Management at Università Ca' Foscari Venezia, Italy."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          subtitle: "Professor of Decision Sciences at the Venice School of Management, Università Ca' Foscari Venezia"
+          imageUrl: "/hobbes.gif"
+          imageWidth: 200
+          imageHeight: 150
           buttons:
             - name: Research
-              url: papers/
+              url: research
             - name: Teaching
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Publications
-              url: books/
+              url: teaching
+            - name: Service
+              url: service
             - name: Repository
-              url: archive/
-            - name: Tags
-              url: tags/
-    
+              url: repository
+
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
           url: mailto:licalzi@unive.it
-        - name: Zoom
-          url: https://unive.zoom.us/j/2916231240?pwd=bXNoMU5XaENLL2hHaXE0U1RmMzZuQT09
+        - name: CV
+          url: /Resume-mlc.pdf
         - name: Location
-          url: location/
+          url: /location/
         - name: Office Hours
-          url: officehours/
-          - name: ORCID
-          url: https://orcid.org/my-orcid?orcid=0000-0003-4718-708X
+          url: /officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=BRTQX8gAAAAJ
+        - name: other
+          url: https://orcid.org/0000-0003-4718-708X
         - name: GitHub
-          url: https://github.com/marcolicalzi
-
+          url: https://github.com/mlicalzi
+          
     assets:
         disableScrollBarStyle: true
     cover:
-        hiddenInList: false
+        hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Marco LiCalzi"
-      icon: favicon.ico
-      iconHeight: 18
+       text: "Marco LiCalzi"
+       icon: /pentagon.ico
+       iconHeight: 18
 
 markup:
     goldmark:
         renderer:
+            hardWraps: false
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: splendor
+        tabWidth: 4
     tableOfContents:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+titleCaseStyle: 'none'
