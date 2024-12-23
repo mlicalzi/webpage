@@ -1,8 +1,8 @@
 ---
 title: "Location"
-date: 2024-05-08
+date: 2024-12-22
 hidemeta: true
-description: "Professor Dr von Igelfeld's mailing and office addresses at the Institute of Romance Philology."
+description: "Marco LiCalzi  's mailing and office addresses at the Venice School of Management."
 
 ---
 
@@ -10,24 +10,24 @@ description: "Professor Dr von Igelfeld's mailing and office addresses at the In
 
 #### Mailing address
 
-Professor Dr von Igelfeld  
-Institute of Romance Philology  
-University of Regensburg  
-Regensburg, Germany
+Prof. Marco LiCalzi  
+Venice School of Management    
+Università Ca' Foscari Venezia  
+San Giobbe, Cannaregio 873  
+30121 Venice, Italy
 
 ---
 
 #### Office address
 
-Room 133  
-Institute of Romance Philology  
-University of Regensburg
+Room 205, Wing C2  
+Venice School of Management  
+Università Ca' Foscari Venezia
 
 ---
 
 #### Office location
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10470.896334563153!2d12.085487114429176!3d48.99680799095555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479fc1126394f30f%3A0xb4c5000594ee5334!2sUniversity%20of%20Regensburg!5e0!3m2!1sen!2sus!4v1714871932562!5m2!1sen!2sus" 
-width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2799.203135283911!2d12.314794976970164!3d45.445562534681045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eb193c3d04e89%3A0xfc35d75c27ce20b!2sCa&#39;%20Foscari%20-%20Dipartimento%20di%20Management%2F%20Venice%20School%20of%20Management!5e0!3m2!1sit!2sit!4v1734894624274!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
 
 

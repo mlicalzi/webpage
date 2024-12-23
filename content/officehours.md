@@ -1,8 +1,8 @@
 ---
 title: "Office Hours"
-date: 2024-05-08
+date: 2024-12-22
 hidemeta: true
-description: "Schedule and location for Professor Dr von Igelfeld's office hours."
+description: "Schedule and location for Marco LiCalzi's office hours."
 ---
 
 --- 
