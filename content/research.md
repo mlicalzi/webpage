@@ -21,15 +21,13 @@ description: "Information related to research for Marco LiCalzi."
 
 + Amases XLIX, Florence, 11-13 September 2025
 
-+ [2025 SAET](https://saet.uiowa.edu/2025-conference/), Milan, 28-30 May 2025
++ [13th World Congress of the Econometric Society](https://www.econometricsociety.org/regional-activities/schedule/2025/08/18/2025-World-Congress-Seoul-Korea#home), Seoul, 18-22 August, 2025
+
++ [2025 SAET](https://saet.uiowa.edu/2025-conference/), Ischia, 20 June-5 July 2025
 
 + BRIC 11, Mexico City, 2-4 June 2025
 
 + [GDRR 8](https://dec.unibocconi.eu/8GDRR), Milan, 28-30 May 2025
-
-+ [1st Computational Social Science Conference](https://cs2italy.org/), Trento, 15-18 January 2025
-
-+ [13th World Congress of the Econometric Society](https://www.econometricsociety.org/regional-activities/schedule/2025/08/18/2025-World-Congress-Seoul-Korea#home), Seoul, 18-22 August, 2025
 
 ### Unpublished papers
 
