@@ -1,21 +1,18 @@
 ---
 title: "Research"
-date: 2024-12-23
+date: 2025-09-06
 hidemeta: true
 description: "Information related to research for Marco LiCalzi."
 ---
 
 ### Work in progress
 
-+ (with Niccolò Urbinati), [*Market allocations under conflation of goods*](https://www.unive.it/pag/fileadmin/user_upload/dipartimenti/economia/doc/Pubblicazioni_scientifiche/working_papers/2022/WP_DSE_urbinati_licalzi_05_22.pdf), April 2025; including an [*Online Appendix*](MACG-Online-Appendix.pdf)
-
 + (with Alperen Yasar), [*Vocabulary aggregation*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902792f), July 2024
 
 ### Current grants
 
-+ 2023-2025: *Honey BEE VOLatility: An environmental index for assessing climatic risk impact on ecosystems service provision* (PRIN PNRR)
++ 2023-2026: *Honey BEE VOLatility: An environmental index for assessing climatic risk impact on ecosystems service provision* (PRIN PNRR)
 + 2023-2025: *Nudging under Limited Attention* (PRIN)
-+ 2021-2024: [*EPOC: Economic Policy in Complex Environments*](https://epoc-itn.eu) (Innovative Training Network)
 
 ### Upcoming conferences
 
@@ -24,10 +21,6 @@ description: "Information related to research for Marco LiCalzi."
 + [13th World Congress of the Econometric Society](https://www.econometricsociety.org/regional-activities/schedule/2025/08/18/2025-World-Congress-Seoul-Korea#home), Seoul, 18-22 August, 2025
 
 + [2025 SAET](https://saet.uiowa.edu/2025-conference/), Ischia, 20 June-5 July 2025
-
-+ BRIC 11, Mexico City, 2-4 June 2025
-
-+ [GDRR 8](https://dec.unibocconi.eu/8GDRR), Milan, 28-30 May 2025
 
 ### Unpublished papers
 
