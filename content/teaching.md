@@ -25,15 +25,19 @@ Please book your meeting by email at least 48 hours in advance\
 
 #### U. Ca' Foscari Venezia
 
-[*Advanced Microeconomics*](https://moodle.unive.it/course/view.php?id=20297) (Doctoral, PHD107)
+[*Advanced Microeconomics*](https://moodle.unive.it/course/view.php?id=24415) (Doctoral, PHD107)
 
-[*Principles of Organizational Economics*](https://moodle.unive.it/course/view.php?id=20309) (Doctoral, PHD178)
+[*Politics and Mathematics*](https://moodle.unive.it/course/view.php?id=23187](https://www.unive.it/data/insegnamento/576199) (Bachelor)
+
+[*Principles of Organizational Economics*](https://moodle.unive.it/course/view.php?id=24438) (Doctoral, PHD178)
+
+[*Risk and Uncertainty*](https://moodle.unive.it/course/view.php?id=23187) (Bachelor)
 
 #### U. della Svizzera Italiana
 
-[*Teoria dei giochi e programmazione lineare*](https://www.icorsi.ch/course/view.php?id=19218) (Bachelor)
+[*Computational Social choice*](https://search.usi.ch/it/corsi/35275929/computational-social-choice) (Bachelor)
 
-[*Teoria delle decisioni*](https://www.icorsi.ch/course/view.php?id=20418) (Bachelor)
+[*Teoria dei giochi*](https://search.usi.ch/it/corsi/35275544/teoria-dei-giochi (Bachelor)
 
 ###  Theses and dissertations
 
