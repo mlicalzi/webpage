@@ -1,6 +1,6 @@
 ---
 title: "Office Hours"
-date: 2024-12-22
+date: 2025-09-06
 hidemeta: true
 description: "Schedule and location for Marco LiCalzi's office hours."
 ---
@@ -8,13 +8,13 @@ description: "Schedule and location for Marco LiCalzi's office hours."
 --- 
 #### Schedule
 
-Office hours take place on Wednesday at 10am.
+Office hours take place on Thursday at 16:00.
 
 ---
 
 #### Location
 
-By default meetings are in my office. I am also available for virtual meetings on Zoom.
+By default meetings are in my office. Upon request, I am available for virtual meetings on Zoom.
 
 ---
 
